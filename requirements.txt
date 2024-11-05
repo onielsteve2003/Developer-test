@@ -1,0 +1,11 @@
+argparse
+pyyaml>=6.0
+openai
+pytest>=7.0
+pytest-asyncio>=0.20
+pytest-cov>=4.0
+typing-extensions
+nbformat
+tqdm
+textstat>=0.7.3
+setuptools>=65.5.1

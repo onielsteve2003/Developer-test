@@ -1,0 +1,7 @@
+# Add more diverse problem examples:
+Given an array of integers, find the longest increasing subsequence.
+Design a parking lot system with multiple levels and vehicle types.
+Implement a distributed cache with LRU eviction policy.
+Create a task scheduler with priority queues and deadlines.
+Build a simple blockchain with proof-of-work mining.
+# ... add more problems
